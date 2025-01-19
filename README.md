@@ -1,7 +1,7 @@
 ![logo](https://github.com/verma-2004/verma-2004/blob/main/GITHUB%20BANNER.png)
 <h1 align="center">Hi 👋, I'm ABHINAV VERMA</h1>
 <h3 align="center">An aspiring Data Scientist from India</h3>
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
+<img align="right" alt="coding" width="400" src="[https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp](https://media.gifdb.com/animated-man-computer-coding-nae6mec378lsg1i3.gif)">
 
 
 - 🌱 I’m currently learning **POWERBI and SQL**
